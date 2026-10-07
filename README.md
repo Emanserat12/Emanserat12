@@ -35,6 +35,6 @@ I'm open to freelance projects, such as:
 
 ## 📫 Get in touch
 
-- 🌐 Portfolio: [eman-serat-full-stac-tbwa.bolt.host](https://eman-serat-full-stac-tbwa.bolt.host/)
+- 🌐 Portfolio: [emanserat.netlify.app/](https://emanserat.netlify.app/)
 - 📧 Email: [eman.serat987@gmail.com](mailto:eman.serat987@gmail.com)
 - 💬 Open to Python / Django collaborations and freelance work
